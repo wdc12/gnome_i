@@ -1,6 +1,3 @@
-//Name : Ved Dipak Deore
-//Roll No. : TECOA13
-
 import java.io.IOException;
 import java.util.*;
 import org.apache.hadoop.conf.*;
